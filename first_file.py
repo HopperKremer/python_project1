@@ -1,7 +1,7 @@
 print("please work")
 # check 1 2 3 4
 
-# hkjh
+# test
 
 
 def some_fn():
@@ -10,4 +10,4 @@ def some_fn():
 
 
 some_fn()
-# anus
+# test
