@@ -24,3 +24,9 @@ def some_fn():
 
 
 some_fn()
+<<<<<<< HEAD
+=======
+# test
+#test 2
+#test 3
+>>>>>>> 809278a0aaad2bf9d9e568ce404068c532440ca9
