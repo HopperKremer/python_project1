@@ -1,7 +1,8 @@
+import datetime
 print("please work")
-# check 1 2 3 4 5
+now = datetime.datetime.now()
+# check 1 2 3 4
 
-# another comment
 
 # test
 
@@ -12,9 +13,9 @@ def some_fn():
     print("Are you sure you like " + favColor + " best?")
     age = input("How old are you?")
     print("Huh, I rememember when I was " + age + " years old.")
-    # Let's figure out how to get current year with python
+    # Let's get current year
     print("you were born around the year " +
-          str(2020-int(age)) + " weren't you?")
+          str(now.year-int(age)) + " weren't you?")
     if int(age) > 70:
         print("You are too old to drink")
     elif int(age) > 21:
