@@ -1,5 +1,7 @@
 print("please work")
-# check 1 2 3 4
+# check 1 2 3 4 5
+
+# another comment
 
 # test
 
@@ -24,6 +26,3 @@ def some_fn():
 
 
 some_fn()
-# test
-# test 2
-# test 3
